@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Laipi1240
-- ⚡sophemore in NYCU EE
+- ⚡junior in NYCU EE
 
 <!---
 Laipi1240/Laipi1240 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
